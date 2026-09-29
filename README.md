@@ -13,10 +13,6 @@ Dedicated and detail-oriented professional with **3+ years of experience** in so
 
 ### 🚀 Highlighted Portfolio Projects
 
- [Meldep - QA Validation & End-to-End Testing Suite](https://github.com/Bhagyashrip0411/meldep)
-
-*An All-in-One Project Management & Tracking Platform framework.* 
-
 * Designed a comprehensive end-to-end software test matrix and API validation repository modeled after Jira-aligned ticket workflows.
 * Developed Postman collection test scripts to verify platform CRUD endpoints and HTTP response codes.
 * Created custom MS SQL verification routines to ensure robust backend data reconciliation between user actions and database states.
